@@ -1,0 +1,1 @@
+This example demonstrates how the ArcGIS API for Javascript can be used to force a tile service to render as a dynamic service.  This is particularly useful a large scales where there isn't as much data to render as there is at smaller scales.  Requests can be toggled and displays are fast enough to support this type of dynamic rendering from a cached service.
